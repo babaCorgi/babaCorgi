@@ -2,7 +2,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="30"/>嘿！我是来自中国的 babaCorgi！ </h1>
 <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif3.gif?raw=true" width="500"/>
 
-
+<br>
 <!-- AboutMe -->
 <h3> 👨🏻‍💻 关于我 </h3>
 
@@ -12,8 +12,9 @@
 - 🌱 &nbsp; 热爱旅游，热爱美食，热爱学习
 - ✍️ &nbsp; 知道自己目的地的人，才是旅行得最远的人
 - ☕ &nbsp; 世界会向那些有目标和远见的人让路
+<br>
 
-
+<br>
 <!-- Tech -->
 <h3>🛠 技术栈</h3>
 <p>
@@ -22,8 +23,9 @@
 <img alt="php" src="https://img.shields.io/badge/-Php-B06DF9?style=flat-square&logo=php&logoColor=white" />
 <img alt="java" src="https://img.shields.io/badge/-Java-9A2A34?style=flat-square&logo=java&logoColor=white" />
 </p>
+<br>
 
-
+<br>
 <!-- Connect -->
 <h3> 🤝🏻 联系我 </h3>
 <p align="center">
@@ -32,8 +34,10 @@
 &nbsp; <a href="https://twitter.com/tobe404" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 </p>
 <!-- contribution-->
+<br>
 
 
+<br>
 <h3> 🐍 小游戏</h3>
 离谱！！我的贡献图被吃掉了... 😶
 <p> 
