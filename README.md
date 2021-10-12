@@ -1,5 +1,5 @@
 <!-- Hey -->
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="30"/>Hey there! I'm babaCorgi from China! </h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="30"/>嘿！我是来自中国的 babaCorgi！ </h1>
 <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif3.gif?raw=true" width="500"/>
 
 
@@ -35,7 +35,7 @@
 
 
 <h3> 🐍 小游戏</h3>
-Aaahhhhhh !! My contribution grapgh is getting eaten... 😶
+离谱！！我的贡献图被吃掉了... 😶
 <p> 
  <img src="https://raw.githubusercontent.com/babaCorgi/babaCorgi/output/github-contribution-grid-snake.svg" />
 </p>
